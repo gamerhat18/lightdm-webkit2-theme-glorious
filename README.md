@@ -1,10 +1,8 @@
 ## glorious - a lightdm webkit2 theme
 
-[![maintained](https://img.shields.io/maintenance/yes/2020?label=maintained&style=flat-square)](https://github.com/manilarome/the-glorious-lightdm-webkit2-theme/commits/master) [![contributions](https://img.shields.io/badge/contribution-welcome-brightgreen&?style=flat-square)](https://github.com/manilarome/the-glorious-lightdm-webkit2-theme/pulls) [![HitCount](http://hits.dwyl.com/manilarome/the-glorious-lightdm-webkit2-theme.svg)](http://hits.dwyl.com/manilarome/the-glorious-lightdm-webkit2-theme) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/0812167ef9954b74ac23f7c1bfeb3764)](https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=manilarome/the-glorious-lightdm-webkit2-theme&amp;utm_campaign=Badge_Grade)
-
 A sleek, modern, and glorified lightdm webkit2 theme
 
-## [Live Demo](https://manilarome.github.io/lightdm-webkit2-theme-glorious)
+## See the [Live Demo](https://thegamerhat.github.io/lightdm-webkit2-theme-glorious/)
 
 ### Demo password: `toor`
 
