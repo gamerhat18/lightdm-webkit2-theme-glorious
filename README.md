@@ -1,4 +1,6 @@
-## glorious - a lightdm webkit2 theme
+# This repository has moved to https://github.com/thegamerhat/lightdm-glorious-webkit2
+
+# glorious - a lightdm webkit2 theme
 
 A sleek, modern, and glorified lightdm webkit2 theme
 
